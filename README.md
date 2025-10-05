@@ -3,4 +3,4 @@ Egy Script amelyben elő tudod hívni Illenium-appearance teljes ruha menüjét 
 A script in which you can summon Illenium's full outfit menu, so that it’s bound to a key and configurable.
 
 
-Show Case: https://youtu.be/JNK4BCIS1Uw
+Showcase: https://youtu.be/JNK4BCIS1Uw
